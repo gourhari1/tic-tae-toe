@@ -1,0 +1,24 @@
+.btns{
+    border: 1px solid black;
+  width: 80px;
+  height: 80px;
+  padding: 0%;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btns:hover {background-color:skyblue;}
+
+.btns :active{
+  background-color:skyblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.text{
+color:green;
+font-weight: 900;
+font-size: 50px;
+
+}

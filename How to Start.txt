@@ -1,0 +1,23 @@
+STEPS TO START PROJECT
+
+1.Paste the my folder in Documents.
+
+open the disable chrome  file "WITH RUN AS ADMINISTRATOR" present in my folder.
+
+2.You need to open two command prompts(One for the backend and the other for frontend).
+
+
+3.On first command prompt go to the directory react_frontend by "cd" command.
+then write "npm start".
+
+Your first server should start running now.
+
+
+4. On Second command prompt go to the directory dj_backend by "cd" command.
+then write "python manage.py runserver".
+
+Your second server should start running now.
+
+5. On the chrome browser open the page http://localhost:3000/.
+
+Congrats! the website is running.

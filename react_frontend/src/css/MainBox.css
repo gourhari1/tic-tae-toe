@@ -1,0 +1,15 @@
+.mbox{
+    border: 5px solid goldenrod;
+width: fit-content;
+height: fit-content;
+padding: 2%;
+margin : 10% 0 0 35%;
+
+
+}
+.stats
+{
+    background-color: red;
+    color: green;
+    font-weight: 600;
+}
